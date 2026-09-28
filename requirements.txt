@@ -1,0 +1,7 @@
+# Librerías que Streamlit Cloud debe instalar para ejecutar app.py (una por línea).
+# Las líneas que empiezan con # son comentarios y se ignoran.
+streamlit
+pandas
+numpy
+plotly
+statsmodels

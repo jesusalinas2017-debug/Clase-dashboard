@@ -1,0 +1,16 @@
+# Tema visual del dashboard (paleta ejecutiva clara).
+# %%writefile guarda este texto en el archivo .streamlit/config.toml (no ejecuta nada).
+# primaryColor = color de botones y sliders; backgroundColor = fondo; textColor = texto.
+[theme]
+base = "light"
+primaryColor = "#1F5A96"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F7FA"
+textColor = "#1B2430"
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
